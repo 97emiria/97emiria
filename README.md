@@ -1,6 +1,4 @@
 # Hello,
-👤 Emilia Holmström <br>
+🌱 Web Development Student <br>
 📫 hi@emiria.se <br>
-🌐 https://emiria.se/
-🌱 Web Development Student
-🦙 Because llamas are nice
+🦙 Because llamas are nice <br>
