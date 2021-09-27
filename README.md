@@ -1,4 +1,5 @@
 # Hello,
 
-📫 hi@emiria.se <br>
 🌱 Web Development Student <br>
+📫 hi@emiria.se <br>
+☕ Mornings coffe 
